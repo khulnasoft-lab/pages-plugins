@@ -22,7 +22,7 @@
 		"khulnasoft/workers-types": "^4.20221111.1",
 		"@types/react": "^18.0.28",
 		"patch-package": "^6.5.1",
-		"typescript": "^4.9.3",
+		"typescript": "^5.0.0",
 		"vite": "^4.0.4",
 		"vitest": "^0.26.3",
 		"wrangler": "^2.13.0"
