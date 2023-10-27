@@ -21,7 +21,7 @@
 		"@changesets/cli": "^2.25.2",
 		"khulnasoft/workers-types": "^4.20221111.1",
 		"@types/react": "^18.0.28",
-		"patch-package": "^6.5.1",
+		"patch-package": "^8.0.0",
 		"typescript": "^4.9.3",
 		"vite": "^4.0.4",
 		"vitest": "^0.26.3",
